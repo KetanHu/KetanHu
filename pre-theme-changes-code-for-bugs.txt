@@ -1,0 +1,8 @@
+so the current issues are :
+	1 about intro svg is not getting displayed 
+	2 ketan-hero-potrait svg is not proper photo not there and background animation not there as well 
+	3 contribution snake svg does not correct boxes no snake and snake motion animation present 
+	4 initially title work svg was duplicated as assets/achievement-motif-v2.svg so i thought it was repeated and it was removed but it was the title-work svg 
+	5 intro grid is not present error occuring there 
+	6 assets/title-recognition.svg is having error as well
+	7 both project svg are not correct i dont want the svg to navigate to the project github link we have repo name and link linked to it below the svg so remove the link to the svg for the same for both projects 
