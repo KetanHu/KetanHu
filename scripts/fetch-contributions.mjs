@@ -17,7 +17,7 @@
 import fs from "node:fs";
 import path from "node:path";
 
-const LOGIN = process.env.GH_USERNAME || "Sushmitadasari";
+const LOGIN = process.env.GH_USERNAME || "KetanHu";
 const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
 const OUTPUT = process.env.OUTPUT_PATH || "site/data/contributions.json";
 

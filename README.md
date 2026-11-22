@@ -6,6 +6,7 @@
   <a href="https://github.com/KetanHu"><img src="https://img.shields.io/badge/GitHub-KetanHu-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="GitHub profile"></a>
   <a href="https://www.linkedin.com/in/ketan-hadkar-817084230/"><img src="https://img.shields.io/badge/LinkedIn-Ketan_Hadkar-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=" alt="LinkedIn profile"></a>
   <a href="https://leetcode.com/u/H_Ketan/"><img src="https://img.shields.io/badge/LeetCode-H__Ketan-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode" alt="LeetCode profile H_Ketan"></a>
+  <a href="mailto:ketanh22112002@gmail.com"><img src="https://img.shields.io/badge/Email-ketanh22112002@gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email ketanh22112002@gmail.com"></a>
 </p>
 
 <img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Ketan.">
@@ -37,13 +38,38 @@
 </p>
 
 <img src="assets/title-certifications.svg" width="100%" alt="06 Certifications — Verified credentials.">
-<img src="assets/certifications.svg" width="100%" alt="Certifications: Databricks Certified Data Engineer Associate; AWS Certified Cloud Practitioner; Foundations of Building in Board; Building a Planning Solution in Board; Expanding Board in Your Organization.">
+
+<a href="https://drive.google.com/file/d/1jPAIA81dkci-1q9Uq2GjuF0_VTdYHbE2/view"><img src="assets/cert-databricks.svg" width="100%" alt="Databricks Certified Data Engineer Associate — Credential ID 154048816 — open verification"></a>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1jPAIA81dkci-1q9Uq2GjuF0_VTdYHbE2/view"><img src="https://img.shields.io/badge/Verify-Databricks_Certified_Data_Engineer_Associate-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=google-drive" alt="Verify Databricks Certified Data Engineer Associate"></a>
+</p>
+
+<a href="https://drive.google.com/file/d/1FRlTm9E8i4drFSER6OLSEWRC3ZaVf4vP/view"><img src="assets/cert-aws.svg" width="100%" alt="AWS Certified Cloud Practitioner — Credential ID 800e79a761cf486393469258de816904 — open verification"></a>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1FRlTm9E8i4drFSER6OLSEWRC3ZaVf4vP/view"><img src="https://img.shields.io/badge/Verify-AWS_Certified_Cloud_Practitioner-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=amazon-aws" alt="Verify AWS Certified Cloud Practitioner"></a>
+</p>
+
+<a href="https://verify.skilljar.com/c/hxyhscorty6c"><img src="assets/cert-board-foundations.svg" width="100%" alt="Foundations of Building in Board — Credential ID hxyhscorty6c — open verification"></a>
+<p align="center">
+  <a href="https://verify.skilljar.com/c/hxyhscorty6c"><img src="https://img.shields.io/badge/Verify-Foundations_of_Building_in_Board-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3" alt="Verify Foundations of Building in Board"></a>
+</p>
+
+<a href="https://verify.skilljar.com/c/jtow7eh8s72e"><img src="assets/cert-board-planning.svg" width="100%" alt="Building a Planning Solution in Board — Credential ID jtow7eh8s72e — open verification"></a>
+<p align="center">
+  <a href="https://verify.skilljar.com/c/jtow7eh8s72e"><img src="https://img.shields.io/badge/Verify-Building_a_Planning_Solution_in_Board-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3" alt="Verify Building a Planning Solution in Board"></a>
+</p>
+
+<a href="https://verify.skilljar.com/c/a57dmshak2x9"><img src="assets/cert-board-expanding.svg" width="100%" alt="Expanding Board in Your Organization — Credential ID a57dmshak2x9 — open verification"></a>
+<p align="center">
+  <a href="https://verify.skilljar.com/c/a57dmshak2x9"><img src="https://img.shields.io/badge/Verify-Expanding_Board_in_Your_Organization-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3" alt="Verify Expanding Board in Your Organization"></a>
+</p>
 
 <img src="assets/title-connect.svg" width="100%" alt="07 Connect — Let's build something worth explaining.">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ketan-hadkar-817084230/"><img src="https://img.shields.io/badge/LinkedIn-Ketan_Hadkar-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=" alt="LinkedIn profile"></a>
   <a href="https://leetcode.com/u/H_Ketan/"><img src="https://img.shields.io/badge/LeetCode-H__Ketan-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode" alt="LeetCode profile H_Ketan"></a>
+  <a href="mailto:ketanh22112002@gmail.com"><img src="https://img.shields.io/badge/Email-ketanh22112002@gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email ketanh22112002@gmail.com"></a>
   <a href="https://github.com/KetanHu"><img src="https://img.shields.io/badge/GitHub-KetanHu-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="GitHub"></a>
 </p>
 
