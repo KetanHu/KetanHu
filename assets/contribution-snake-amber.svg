@@ -27,8 +27,8 @@
   <rect x=".5" y=".5" width="1199" height="409" rx="19.5" fill="none" stroke="#8C7255" stroke-opacity=".16"/>
 
   <g class="hm-fade">
-    <text class="hm-mono" x="56" y="68" font-size="11" letter-spacing="2.6" fill="#C77B9B">COMMIT LOG · REAL GITHUB ACTIVITY</text>
-    <text class="hm-serif" x="54" y="110" font-size="27" font-weight="300" fill="#F8F0F3">A year of building, <tspan font-style="italic" fill="#E5B5C7">one square</tspan> at a time.</text>
+    <text class="hm-mono" x="56" y="68" font-size="11" letter-spacing="2.6" fill="#8C7255">COMMIT LOG · REAL GITHUB ACTIVITY</text>
+    <text class="hm-serif" x="54" y="110" font-size="27" font-weight="300" fill="#FFF2D6">A year of building, <tspan font-style="italic" fill="#F4D9A0">one square</tspan> at a time.</text>
     <g transform="translate(610 58)">
       <text class="hm-mono" font-size="10" letter-spacing="1.8" fill="#FFF2D6">CONTRIBUTIONS</text>
       <text class="hm-serif" y="44" font-size="36" font-weight="300" fill="#F4D9A0">37</text>
@@ -482,7 +482,7 @@
 
   <g class="hm-fade" style="animation-delay:2.6s">
       <path d="M1113.5 313 V 325" stroke="#FFF2D6" stroke-opacity=".6"/>
-      <text class="hm-mono" x="840" y="339" font-size="10.5" letter-spacing="1.6" fill="#E5B5C7">LONGEST STREAK · 3 DAYS · 24 NOV 2026 – 26 NOV 2026</text>
+      <text class="hm-mono" x="840" y="339" font-size="10.5" letter-spacing="1.6" fill="#F4D9A0">LONGEST STREAK · 3 DAYS · 24 NOV 2026 – 26 NOV 2026</text>
     </g>
 
   <g class="hm-fade">
