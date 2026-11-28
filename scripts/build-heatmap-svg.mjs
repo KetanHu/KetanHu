@@ -111,7 +111,7 @@ if (best > 1) {
   const labelX = Math.min(startPos.x, W - 360);
   streakSvg = `<g class="hm-fade" style="animation-delay:2.6s">
       <path d="M${startPos.x + CELL / 2} ${GRID_Y + 7 * STEP - 2} V ${GRID_Y + 7 * STEP + 10}" stroke="#FFF2D6" stroke-opacity=".6"/>
-      <text class="hm-mono" x="${labelX}" y="${GRID_Y + 7 * STEP + 24}" font-size="10.5" letter-spacing="1.6" fill="#E5B5C7">LONGEST STREAK · ${best} DAYS · ${fmt(toDate(days[bestStart].date)).toUpperCase()} – ${fmt(toDate(days[bestEnd].date)).toUpperCase()}</text>
+      <text class="hm-mono" x="${labelX}" y="${GRID_Y + 7 * STEP + 24}" font-size="10.5" letter-spacing="1.6" fill="#F4D9A0">LONGEST STREAK · ${best} DAYS · ${fmt(toDate(days[bestStart].date)).toUpperCase()} – ${fmt(toDate(days[bestEnd].date)).toUpperCase()}</text>
     </g>`;
 }
 
@@ -197,8 +197,8 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" wid
   <rect x=".5" y=".5" width="${W - 1}" height="${H - 1}" rx="19.5" fill="none" stroke="#8C7255" stroke-opacity=".16"/>
 
   <g class="hm-fade">
-    <text class="hm-mono" x="56" y="68" font-size="11" letter-spacing="2.6" fill="#C77B9B">COMMIT LOG · REAL GITHUB ACTIVITY</text>
-    <text class="hm-serif" x="54" y="110" font-size="27" font-weight="300" fill="#F8F0F3">A year of building, <tspan font-style="italic" fill="#E5B5C7">one square</tspan> at a time.</text>
+    <text class="hm-mono" x="56" y="68" font-size="11" letter-spacing="2.6" fill="#8C7255">COMMIT LOG · REAL GITHUB ACTIVITY</text>
+    <text class="hm-serif" x="54" y="110" font-size="27" font-weight="300" fill="#FFF2D6">A year of building, <tspan font-style="italic" fill="#F4D9A0">one square</tspan> at a time.</text>
     ${statsSvg}
   </g>
 
