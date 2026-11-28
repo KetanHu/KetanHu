@@ -38,6 +38,12 @@ jobs:
           GH_USERNAME: ${{ github.repository_owner }}
         run: node scripts/fetch-contributions.mjs
 
+      - name: Render amber contribution snake SVG
+        env:
+          OUTPUT_PATH: assets/contribution-snake-amber.svg
+          INPUT_PATH: site/data/contributions.json
+        run: node scripts/build-heatmap-svg.mjs
+
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
